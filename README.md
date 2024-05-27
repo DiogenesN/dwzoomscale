@@ -1,7 +1,7 @@
 # DWZoomScale
 A simple Wayland and specifically Wayfire application to quickly zoom in/out your screen.
 Wayfire has the zoom plugin and if it's activated then you simply need to press down the Super (Meta) key and use your mouse wheel to zoom in/out the screen.
-This application simply places a small 3x3 button on the top left corner of the screen and whenever you need to quicly zoom in the screen, you simply move your mouse to the top left corner and scroll up or down to zoom in or out respectively.
+This application simply places a small 3x3 button on the top left corner of the screen and whenever you need to quickly zoom in the screen, you simply move your mouse to the top left corner and scroll up or down to zoom in or out respectively.
 It works by simulating the Super key while you scroll up/down with the mouse wheel.
 It was tested on Debian 12 on Wayfire.
 
